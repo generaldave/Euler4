@@ -23,7 +23,7 @@ import time             # For keeping track of elapsed time
 #                                                                     #
 #######################################################################
 
-TITLE               = "Project Euler: Problem 2"   # GUI Title.
+TITLE               = "Project Euler: Problem 4"   # GUI Title.
 GEOMETRY            = "300x163"                    # GUI screen size.
 HIGHEST_THREE_DIGIT = 999                          # Highest 3 digit
                                                    #     number.
